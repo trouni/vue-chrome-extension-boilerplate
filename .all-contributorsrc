@@ -41,12 +41,22 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mubaidr",
+      "name": "Muhammad Ubaid Raza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2222702?v=4",
+      "profile": "https://mubaidr.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "vue-chrome-extension-boilerplate",
-  "projectOwner": "mubaidr",
+  "projectOwner": "trouni",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
